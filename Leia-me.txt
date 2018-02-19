@@ -1,0 +1,4 @@
+# ProjetoSenior
+Avaliaçao Sênior
+
+Este repositório contém a o projeto do web service, alem da documentação do projeto e os scripts utilizado no banco de dados.
