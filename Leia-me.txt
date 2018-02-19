@@ -2,3 +2,7 @@
 Avaliaçao Sênior
 
 Este repositório contém a o projeto do web service, alem da documentação do projeto e os scripts utilizado no banco de dados.
+
+No meu caso quando inicei o projeto no NetBeans ele apresentou o seguinte erro: Não foi possível localizar o diretório do descritor de implantação. Ele pode ter sido removido ou renomeado. Não sei se esse erro é especifíco do NetBeans ou não. Mesmo subindo o projeto para o git direto do NetBeans ele não carrega esse arquivo. 
+
+É possível resolver esse erro criando uma pasta dentro do nódulo Páginas Web, chamada WEB-INF, feito isso basta refatorar o projeto.
