@@ -507,6 +507,7 @@ Variáveis iniciando com ** p_nome **, quer dizer que vem por parâmetro.
             SELECT 
                 city.ibge_id,
                 city.name,
+		citu.uf,
                 city.lon,
                 city.lat,
                 city.microregion,
